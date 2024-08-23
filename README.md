@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nelg62.github.io/](https://nelg62.github.io/)
 
-- 📫 How to reach me **glen.harding.nz@gmail.com**
+- 📫 How to reach me **glen.harding.nz@gmail.com or my linkedIn **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
