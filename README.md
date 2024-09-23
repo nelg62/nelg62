@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelg62" alt="nelg62" /></a> </p>
 
-- 🔭 I’m currently working on **tidying my projects**
+- 🔭 I’m currently working on **Tidying my projects and recreating with typescript**
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **Typescript and Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://nelg62.github.io/](https://nelg62.github.io/)
 
