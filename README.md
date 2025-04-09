@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Learning, Tidying my projects, looking for jobs**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Prisma**
 
 - 👨‍💻 All of my projects are available at [https://nelg62.github.io/](https://nelg62.github.io/)
 
